@@ -16,16 +16,16 @@ const mainBody = {
       url: "https://github.com/spkal01",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/",
+      image: "fa-discord",
+      url: "https://discord.com/spkal01",
     },
     {
       image: "fa-instagram",
       url: "https://www.instagram.com/spkal01/",
     },
     {
-      image: "fa-linkedin",
-      url: "https://www.linkedin.com/",
+      image: "fa-telegram",
+      url: "https://t.me/spkal01",
     },
     {
       image: "fa-twitter",
