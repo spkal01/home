@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/spkal.jpg"),
   imageSize: 375,
   message:
     "My name is Spyros Kal im a student and  In my free time I like working on open source projects.",
